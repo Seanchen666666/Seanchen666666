@@ -1,0 +1,12 @@
+
+line-bot-sdk 
+bs4 
+flask ==2.0.2
+pyngrok ==5.1.0
+pymongo 
+datetime 
+pandas 
+SnowNLP 
+emoji 
+pyshorteners 
+scipy
